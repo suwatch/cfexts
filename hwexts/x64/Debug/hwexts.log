@@ -1,0 +1,43 @@
+﻿Build started 12/15/2009 4:17:01 PM.
+Project "E:\talk\demo\hwexts\hwexts.vcxproj" on node 52 (rebuild target(s)).
+_PrepareForClean:
+  Deleting file "x64\Debug\hwexts.lastbuildstate".
+InitializeBuildStatus:
+  Creating "x64\Debug\hwexts.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Ic:\Debuggers\sdk\inc /I..\..\..\dd\CDFDev10_1\src\public\sdk\inc /I..\..\..\dd\CDFDev10_1\src\public\internal\NDP\inc /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D DBGEXTS_EXPORTS /D _WINDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt C:\Debuggers\sdk\samples\assert\out.cpp C:\Debuggers\sdk\samples\exts\dbgexts.cpp C:\Debuggers\sdk\samples\exts\exts.cpp
+  out.cpp
+  dbgexts.cpp
+  exts.cpp
+  Generating Code...
+ResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"x64\Debug\dbgexts.res" C:\Debuggers\sdk\samples\exts\dbgexts.rc 
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\hwexts.dll.embed.manifest.res" x64\Debug\hwexts_manifest.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\talk\demo\x64\Debug\hwexts.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib dbgeng.lib /DEF:"C:\Debuggers\sdk\samples\exts\dbgexts.def" /MANIFEST /ManifestFile:"x64\Debug\hwexts.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\talk\demo\x64\Debug\hwexts.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\talk\demo\x64\Debug\hwexts.lib" /MACHINE:X64 /DLL x64\Debug\dbgexts.res
+  x64\Debug\hwexts.dll.embed.manifest.res
+  x64\Debug\out.obj
+  x64\Debug\dbgexts.obj
+  x64\Debug\exts.obj
+     Creating library E:\talk\demo\x64\Debug\hwexts.lib and object E:\talk\demo\x64\Debug\hwexts.exp
+  hwexts.vcxproj -> E:\talk\demo\x64\Debug\hwexts.dll
+Manifest:
+  Deleting file "x64\Debug\hwexts.dll.embed.manifest".
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\hwexts.dll.embed.manifest" /manifest x64\Debug\hwexts.dll.intermediate.manifest
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\hwexts.dll.embed.manifest.res" x64\Debug\hwexts_manifest.rc 
+LinkEmbedManifest:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\talk\demo\x64\Debug\hwexts.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib dbgeng.lib /DEF:"C:\Debuggers\sdk\samples\exts\dbgexts.def" /MANIFEST /ManifestFile:"x64\Debug\hwexts.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\talk\demo\x64\Debug\hwexts.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\talk\demo\x64\Debug\hwexts.lib" /MACHINE:X64 /DLL x64\Debug\dbgexts.res
+  x64\Debug\hwexts.dll.embed.manifest.res
+  x64\Debug\out.obj
+  x64\Debug\dbgexts.obj
+  x64\Debug\exts.obj
+  hwexts.vcxproj -> E:\talk\demo\x64\Debug\hwexts.dll
+FinalizeBuildStatus:
+  Deleting file "x64\Debug\hwexts.unsuccessfulbuild".
+  Touching "x64\Debug\hwexts.lastbuildstate".
+Done Building Project "E:\talk\demo\hwexts\hwexts.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.50

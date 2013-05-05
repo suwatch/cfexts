@@ -1,0 +1,6 @@
+E:\talk\demo\DllExporter\bin\Debug\DllExporter.exe
+E:\talk\demo\DllExporter\bin\Debug\DllExporter.pdb
+E:\talk\demo\DllExporter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\talk\demo\DllExporter\obj\x86\Debug\DllExporter.exe
+E:\talk\demo\DllExporter\obj\x86\Debug\DllExporter.pdb
+E:\talk\demo\DllExporter\bin\Debug\DllExporter.exe.config

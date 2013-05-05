@@ -1,0 +1,6 @@
+E:\talk\demo\HelloWorldCS\bin\Debug\HelloWorldCS.exe
+E:\talk\demo\HelloWorldCS\bin\Debug\HelloWorldCS.pdb
+E:\talk\demo\HelloWorldCS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\talk\demo\HelloWorldCS\obj\x86\Debug\HelloWorldCS.exe
+E:\talk\demo\HelloWorldCS\obj\x86\Debug\HelloWorldCS.pdb
+E:\talk\demo\HelloWorldCS\bin\Debug\HelloWorldCS.exe.config

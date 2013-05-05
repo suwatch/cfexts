@@ -1,0 +1,7 @@
+E:\talk\demo\csexts\bin\Debug\csexts.dll
+E:\talk\demo\csexts\bin\Debug\csexts.pdb
+E:\talk\demo\csexts\obj\Debug\ResolveAssemblyReference.cache
+E:\talk\demo\csexts\obj\Debug\csexts.dll
+E:\talk\demo\csexts\obj\Debug\csexts.pdb
+E:\talk\demo\csexts\bin\Debug\DllExporter.exe
+E:\talk\demo\csexts\bin\Debug\DllExporter.pdb

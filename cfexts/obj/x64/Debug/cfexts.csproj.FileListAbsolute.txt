@@ -1,0 +1,8 @@
+E:\temp\SimpleExts\cfexts\bin\x64\Debug\cfexts.dll
+E:\temp\SimpleExts\cfexts\bin\x64\Debug\cfexts.pdb
+E:\temp\SimpleExts\cfexts\bin\x64\Debug\DllExporter.exe
+E:\temp\SimpleExts\cfexts\bin\x64\Debug\mdbgeng.dll
+E:\temp\SimpleExts\cfexts\bin\x64\Debug\DllExporter.pdb
+E:\temp\SimpleExts\cfexts\obj\x64\Debug\ResolveAssemblyReference.cache
+E:\temp\SimpleExts\cfexts\obj\x64\Debug\cfexts.dll
+E:\temp\SimpleExts\cfexts\obj\x64\Debug\cfexts.pdb

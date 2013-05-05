@@ -1,0 +1,32 @@
+﻿Build started 12/16/2009 3:34:23 PM.
+Project "E:\talk\demo\hwexts\hwexts.vcxproj" on node 29 (build target(s)).
+InitializeBuildStatus:
+  Touching "Debug\hwexts.unsuccessfulbuild".
+ClCompile:
+  All outputs are up-to-date.
+ResourceCompile:
+  All outputs are up-to-date.
+ManifestResourceCompile:
+  All outputs are up-to-date.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\talk\demo\Debug\hwexts.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib dbgeng.lib /DEF:"e:\talk\demo\hwexts\hwexts.def" /MANIFEST /ManifestFile:"Debug\hwexts.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\talk\demo\Debug\hwexts.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\talk\demo\Debug\hwexts.lib" /MACHINE:X86 /DLL Debug\hwexts.res
+  Debug\hwexts.dll.embed.manifest.res
+  Debug\dumppo.obj
+  Debug\help.obj
+  Debug\hwexts.obj
+  Debug\out.obj
+  Debug\testext.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\hwexts.dll.embed.manifest" /manifest Debug\hwexts.dll.intermediate.manifest
+  All outputs are up-to-date.
+LinkEmbedManifest:
+  All outputs are up-to-date.
+  hwexts.vcxproj -> E:\talk\demo\Debug\hwexts.dll
+FinalizeBuildStatus:
+  Deleting file "Debug\hwexts.unsuccessfulbuild".
+  Touching "Debug\hwexts.lastbuildstate".
+Done Building Project "E:\talk\demo\hwexts\hwexts.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.43

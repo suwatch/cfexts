@@ -1,0 +1,33 @@
+﻿Build started 12/16/2009 12:35:38 PM.
+Project "E:\talk\demo\dbgexts\DbgExts.vcxproj" on node 25 (build target(s)).
+InitializeBuildStatus:
+  Touching "Debug\DbgExts.unsuccessfulbuild".
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Ic:\Debuggers\sdk\inc /I..\..\..\dd\CDFDev10_1\src\public\sdk\inc /I..\..\..\dd\CDFDev10_1\src\public\internal\NDP\inc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D DBGEXTS_EXPORTS /D _WINDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt plusplus.cpp
+  plusplus.cpp
+ResourceCompile:
+  All outputs are up-to-date.
+ManifestResourceCompile:
+  All outputs are up-to-date.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\talk\demo\Debug\DbgExts.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib dbgeng.lib /DEF:"C:\Debuggers\sdk\samples\exts\dbgexts.def" /MANIFEST /ManifestFile:"Debug\DbgExts.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\talk\demo\Debug\DbgExts.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\talk\demo\Debug\DbgExts.lib" /MACHINE:X86 /DLL Debug\dbgexts.res
+  Debug\DbgExts.dll.embed.manifest.res
+  Debug\out.obj
+  Debug\dbgexts.obj
+  Debug\exts.obj
+  Debug\plusplus.obj
+     Creating library E:\talk\demo\Debug\DbgExts.lib and object E:\talk\demo\Debug\DbgExts.exp
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DbgExts.dll.embed.manifest" /manifest Debug\DbgExts.dll.intermediate.manifest
+  All outputs are up-to-date.
+LinkEmbedManifest:
+  All outputs are up-to-date.
+  DbgExts.vcxproj -> E:\talk\demo\Debug\DbgExts.dll
+FinalizeBuildStatus:
+  Deleting file "Debug\DbgExts.unsuccessfulbuild".
+  Touching "Debug\DbgExts.lastbuildstate".
+Done Building Project "E:\talk\demo\dbgexts\DbgExts.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.54
